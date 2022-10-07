@@ -21,3 +21,21 @@ DELETE FROM superheros WHERE sh_name='IronMan';
 SELECT * FROM superheros;
 /
 INSERT INTO superheros VALUES ('Falcon');
+
+SELECT * FROM superheros;
+
+INSERT INTO superheros VALUES ('IronMan');
+
+INSERT INTO superheros VALUES ('Thor');
+
+INSERT INTO superheros VALUES ('BlackWidow');
+
+INSERT INTO superheros VALUES ('Wanda');
+
+INSERT INTO superheros VALUES ('SuperMan');
+
+INSERT INTO superheros VALUES ('Batman');
+
+INSERT INTO superheros VALUES ('Shezam');
+
+SELECT * FROM superheros;
