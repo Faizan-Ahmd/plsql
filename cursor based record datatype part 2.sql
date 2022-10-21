@@ -12,3 +12,4 @@ dbms_output.put_line(v_emp.emp_name||' '||v_emp.salary);
 end loop;
 close cur_p;
 end;
+    
